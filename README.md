@@ -3,7 +3,7 @@ Hello,
 Find the Live Project here - https://firegram-proto.netlify.app
 
 
-### Technologies Used: React, JSX, CSS
+### Technologies Used: React, JSX, CSS, HTML
 
 
 
