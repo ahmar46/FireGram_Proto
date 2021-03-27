@@ -6,7 +6,7 @@ Find the Live Project here - https://firegram-proto.netlify.app
 ### Technologies Used: React, FireBase, JSX, CSS, HTML.
 
 
-### This Project is a Prototype Model of bil.
+### This Project is a Prototype Model of bill.
 
 
 
