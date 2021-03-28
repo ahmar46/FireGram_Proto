@@ -8,7 +8,7 @@ Find the Live Project here - https://firegram-proto.netlify.app
 
 ### This Project is a Prototype Model of Billionaire.
 
-### Technologies Used - HTML, CSS, JavaScri
+### Technologies Used - HTML, CSS, JavaScrip
 
 
 
