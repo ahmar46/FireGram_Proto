@@ -10,7 +10,7 @@ Find the Live Project here - https://firegram-proto.netlify.app
 
 ### Technologies Used - HTML, CSS, JavaScript.
 
-### Find me on Instagram - [@electrifyingcodes][Inst] 
+### Find me on Instagram - [@electrifyingcodes][Insta] 
 
 [Instagram]: https://www.instagram.com/electrifyingcodes
 
