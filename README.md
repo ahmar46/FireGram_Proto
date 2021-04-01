@@ -12,7 +12,7 @@ Find the Live Project here - https://firegram-proto.netlify.app
 
 ### Find me on Instagram - @electrifyingcodes 
 
-[Instagram] : https://www.instagram.com/electrifyingcodes
+[Instagram]: https://www.instagram.com/electrifyingcodes
 
 
 
